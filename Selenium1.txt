@@ -3,3 +3,6 @@ this Line is added by Master
 this Line is added By Feature1
 this Line is added by Master
 Learning Rebase, Currently in master
+Learning Rebase, Currently in master
+Learning Rebase, Currently in master
+Learning Rebase, Currently in master
