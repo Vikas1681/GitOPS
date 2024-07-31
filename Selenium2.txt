@@ -1,1 +1,2 @@
 this line is written by feature1
+this line is written by Master
